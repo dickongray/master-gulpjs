@@ -1,0 +1,17 @@
+/* Import base elements */
+/* Base Styles */
+/* Import layout */
+/*  styles for page specific scss files */
+/*  styles for page specific scss files */
+/*  styles related to the layout of my website
+header, section and footer etc 
+ */
+/* Import Modules */
+/* re-usable styles eg navigation, sidebar, buttons, forms and carousel. */
+/* Import Themes */
+/*  Styles related to the colour scheme of the website goes to this file. */
+h1 {
+  color: #f7af00;
+  background: #eee; }
+
+/*# sourceMappingURL=styles.css.map */
